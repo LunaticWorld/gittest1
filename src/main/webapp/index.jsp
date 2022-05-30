@@ -18,6 +18,7 @@
           <LI>두번째 변경 진행함.</LI>
           <li> local branch use. </li>
           <li> main </li>
+          <li> local append list </li>
           <li> main append list </li>
       </OL>
   </DIV> 
