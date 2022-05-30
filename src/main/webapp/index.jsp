@@ -22,6 +22,7 @@
           <li> local append list </li>
           <li> main append list </li>
           <li> another main li </li>
+          <li> another local li </li>
       </OL>
   </DIV> 
 </body>
