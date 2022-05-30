@@ -19,6 +19,8 @@
           <li> local branch use. </li>
           <li> main </li>
           <li> remote append list </li>
+          <li> local append list </li>
+          <li> main append list </li>
       </OL>
   </DIV> 
 </body>
